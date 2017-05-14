@@ -70,6 +70,7 @@ h3 {
 }
 
 #tribute-info {
+  text-align: center;
   margin: auto;
 }
 
@@ -100,7 +101,7 @@ ul {
     #img-caption {
       font-size: 2.5vw;
     }
-    h3 {
+    h3, h4 {
       font-size: 3.2vw;
     }
 }
